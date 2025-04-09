@@ -1,0 +1,137 @@
+prehistoric
+ancient
+medieval
+renaissance
+modern
+contemporary
+futuristic
+post-apocalyptic
+stone age
+bronze age
+iron age
+classical antiquity
+dark ages
+middle ages
+industrial revolution
+digital age
+information age
+space age
+paleolithic
+mesolithic
+neolithic
+ancient egypt
+ancient greece
+ancient rome
+byzantine era
+viking age
+feudal
+colonial
+victorian
+edwardian
+regency
+belle époque
+roaring twenties
+great depression
+world war era
+cold war
+post-war
+pre-historic
+pre-industrial
+pre-modern
+post-modern
+distant future
+near future
+far future
+utopian future
+dystopian future
+cyberpunk
+steampunk
+dieselpunk
+atompunk
+retro-futuristic
+1800s
+1900s
+2000s
+1920s
+1930s
+1940s
+1950s
+1960s
+1970s
+1980s
+1990s
+2010s
+2020s
+2030s
+2040s
+2050s
+21st century
+22nd century
+23rd century
+millennium
+jurassic
+cretaceous
+ice age
+pleistocene
+holocene
+anthropocene
+primordial
+antediluvian
+golden age
+silver age
+bronze age
+iron age
+atomic age
+jet age
+information age
+pre-columbian
+colonial america
+antebellum
+post-bellum
+reconstruction era
+gilded age
+progressive era
+jazz age
+atomic age
+civil rights era
+digital revolution
+post-9/11
+pre-pandemic
+post-pandemic
+age of exploration
+age of enlightenment
+age of reason
+age of sail
+age of steam
+age of flight
+Ming dynasty
+Qing dynasty
+Edo period
+Meiji era
+Belle Époque
+fin de siècle
+interwar period
+post-colonial
+ancient mesopotamia
+classical maya
+imperial china
+tokugawa shogunate
+ottoman empire
+mughal empire
+vedic period
+heian period
+three kingdoms
+warring states
+first civilization
+pre-contact
+post-contact
+pre-revolutionary
+revolutionary
+post-revolutionary
+mid-century
+turn of the century
+new millennium
+before common era
+common era
+antiquity
+modernity
