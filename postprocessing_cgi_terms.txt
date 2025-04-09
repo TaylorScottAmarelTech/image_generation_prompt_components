@@ -1,0 +1,199 @@
+color grading
+color correction
+tone mapping
+HDR
+LUT
+filter
+preset
+adjustment layer
+curves adjustment
+levels adjustment
+selective color
+split toning
+dodge and burn
+frequency separation
+clone stamp
+healing brush
+content-aware fill
+liquify
+warp
+transform
+perspective correction
+lens correction
+noise reduction
+sharpening
+unsharp mask
+clarity
+dehaze
+vibrance
+saturation
+desaturation
+black and white conversion
+duotone
+tritone
+gradient map
+texture overlay
+grain
+film grain
+digital noise
+vignette
+radial filter
+gradient filter
+local adjustment
+global adjustment
+batch processing
+RAW processing
+JPEG compression
+lossless compression
+lossy compression
+compositing
+masking
+layer mask
+alpha channel
+blending mode
+screen blend
+multiply blend
+overlay blend
+soft light
+hard light
+exclusion
+difference
+luminosity
+hue blend
+saturation blend
+color blend
+opacity
+fill
+smart object
+non-destructive editing
+parametric editing
+retouching
+skin retouching
+beauty retouching
+high-end retouching
+photo manipulation
+photobashing
+matte painting
+digital painting
+digital art
+AI-generated
+AI-assisted
+3D rendering
+ray tracing
+path tracing
+global illumination
+ambient occlusion
+subsurface scattering
+reflection
+refraction
+caustics
+displacement mapping
+normal mapping
+bump mapping
+specular mapping
+diffuse mapping
+texture mapping
+UV mapping
+3D modeling
+polygon modeling
+subdivision surface
+NURBS modeling
+procedural modeling
+sculpting
+digital sculpting
+ZBrush
+Maya
+Blender
+Cinema 4D
+3DS Max
+Houdini
+Unreal Engine
+Unity
+Photoshop
+Lightroom
+Capture One
+After Effects
+Nuke
+Fusion
+Substance Painter
+Mari
+Arnold renderer
+V-Ray
+Redshift
+Octane Render
+Cycles
+Eevee
+physically based rendering
+PBR materials
+shader
+material
+texture
+procedural texture
+particle system
+fluid simulation
+cloth simulation
+rigid body dynamics
+soft body dynamics
+hair and fur
+volumetrics
+atmospheric effects
+fog
+mist
+haze
+smoke
+fire
+explosion
+water simulation
+ocean simulation
+crowd simulation
+motion capture
+character rigging
+facial rigging
+animation
+keyframe animation
+procedural animation
+physics-based animation
+motion graphics
+kinetic typography
+wire removal
+rotoscoping
+keying
+chroma key
+green screen
+blue screen
+tracking
+camera tracking
+match moving
+projection mapping
+stereoscopic 3D
+virtual reality
+augmented reality
+light field
+neural rendering
+deep fake
+style transfer
+GAN
+diffusion model
+stable diffusion
+DALL-E
+Midjourney
+generative art
+procedural generation
+non-photorealistic rendering
+cel shading
+toon shading
+stylized rendering
+photorealistic rendering
+hyperrealistic rendering
+uncanny valley
+look development
+digital double
+digital human
+virtual production
+real-time rendering
+node-based compositing
+node-based material
+parametric design
+algorithmic art
+fractal art
+generative design
