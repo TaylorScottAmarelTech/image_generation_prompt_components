@@ -1,0 +1,125 @@
+prime lens
+zoom lens
+wide-angle lens
+ultra-wide lens
+standard lens
+normal lens
+telephoto lens
+super-telephoto lens
+macro lens
+fisheye lens
+tilt-shift lens
+pancake lens
+kit lens
+portrait lens
+landscape lens
+cinema lens
+anamorphic lens
+cine lens
+vintage lens
+manual focus lens
+autofocus lens
+f/1.2
+f/1.4
+f/1.8
+f/2.0
+f/2.8
+f/3.5
+f/4.0
+f/5.6
+f/8.0
+f/11
+f/16
+f/22
+wide aperture
+narrow aperture
+fast lens
+slow lens
+24mm
+35mm
+50mm
+85mm
+135mm
+200mm
+400mm
+600mm
+full-frame lens
+crop sensor lens
+medium format lens
+EF mount
+F mount
+E mount
+Z mount
+RF mount
+L-mount
+M mount
+Leica lens
+Zeiss lens
+Canon lens
+Nikon lens
+Sony lens
+Sigma Art lens
+Tamron lens
+Voigtlander lens
+bokeh
+shallow depth of field
+deep depth of field
+creamy bokeh
+swirly bokeh
+soap bubble bokeh
+onion ring bokeh
+cat's eye bokeh
+nervous bokeh
+lens flare
+sun stars
+starburst effect
+lens distortion
+barrel distortion
+pincushion distortion
+mustache distortion
+vignetting
+chromatic aberration
+spherical aberration
+coma
+astigmatism
+field curvature
+focus breathing
+focus shift
+lens compression
+perspective compression
+lens coating
+multi-coated lens
+nano coating
+T-stop
+optical stabilization
+image stabilization
+lens hood
+lens filter
+UV filter
+polarizing filter
+ND filter
+graduated ND filter
+lens elements
+lens groups
+aspherical elements
+ED glass
+fluorite elements
+low dispersion glass
+STM motor
+USM motor
+stepping motor
+parfocal lens
+varifocal lens
+minimum focus distance
+focus throw
+manual aperture ring
+electronic aperture
+constant aperture
+variable aperture
+focal length
+equivalent focal length
+angle of view
+field of view
+rectilinear lens
+curvilinear lens
+perspective control
