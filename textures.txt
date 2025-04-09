@@ -98,3 +98,610 @@ crumpled
 crushed
 tattered
 frayed
+smooth
+glossy
+matte
+satin
+textured
+grainy
+film grain
+fine grain
+coarse grain
+subtle grain
+natural grain
+soft grain
+organic grain
+tactile
+porous
+polished
+rough
+rugged
+weathered
+worn
+aged
+distressed
+patina
+vintage
+rustic
+cracked
+peeling
+flaking
+detailed
+fine detail
+high detail
+rich texture
+subtle texture
+pronounced texture
+crisp texture
+sharp texture
+natural texture
+authentic texture
+realistic texture
+photographic texture
+tactile quality
+surface quality
+textural depth
+textural complexity
+visual texture
+physical texture
+skin texture
+pore texture
+fabric texture
+cloth texture
+woven texture
+knitted texture
+fibrous
+silky
+velvety
+cotton-like
+woolen
+linen texture
+denim texture
+leather texture
+suede texture
+metallic
+brushed metal
+polished metal
+raw metal
+oxidized metal
+weathered metal
+stone texture
+concrete texture
+marble texture
+granite texture
+sandstone texture
+slate texture
+brick texture
+plaster texture
+stucco texture
+ceramic texture
+porcelain texture
+glass texture
+crystal texture
+transparent
+translucent
+reflective
+light-absorbing
+water texture
+liquid surface
+rippled
+wavy
+undulating
+flowing
+wood grain
+natural wood
+polished wood
+raw wood
+weathered wood
+bark texture
+leaf texture
+plant texture
+organic pattern
+natural pattern
+feathered
+furry
+fuzzy
+hair texture
+skin detail
+paper texture
+cardboard texture
+folded
+creased
+wrinkled
+crumpled
+smooth skin
+textured skin
+porous skin
+realistic skin
+natural skin
+unretouched skin
+detailed skin
+portrait texture
+lifelike texture
+hyperreal texture
+photorealistic texture
+documentary texture
+unprocessed texture
+unfiltered texture
+raw texture
+authentic detail
+fine detail
+micro detail
+macro texture
+environmental texture
+architectural texture
+landscape texture
+natural environment
+urban texture
+industrial texture
+mechanical texture
+technical texture
+clean texture
+pristine surface
+immaculate detail
+clear texture
+sharp detail
+defined texture
+high resolution texture
+detailed surface
+minute detail
+subtle detail
+nuanced texture
+complex texture
+layered texture
+multidimensional
+depth texture
+sculptural quality
+dimensional texture
+tangible quality
+palpable texture
+real-world texture
+true-to-life texture
+unedited texture
+unaltered texture
+natural appearance
+genuine texture
+honest texture
+faithful reproduction
+accurate texture
+precise detail
+meticulous texture
+exacting detail
+clinical detail
+documentary detail
+journalistic texture
+editorial texture
+commercial quality
+professional texture
+studio quality
+photographic fidelity
+textural fidelity
+high-fidelity texture
+technical accuracy
+textural precision
+material authenticity
+surface authenticity
+texture clarity
+clear definition
+distinct texture
+defined detail
+precise rendering
+exquisite detail
+intricate texture
+delicate detail
+fine texture
+robust texture
+substantial texture
+heavy texture
+light texture
+subtle texture
+nuanced detail
+dimensional depth
+textural dimension
+surface variation
+topographical
+relief texture
+embossed
+debossed
+engraved
+etched
+incised
+carved
+chiseled
+hammered
+forged
+cast
+molded
+natural formation
+geological texture
+biological texture
+cellular texture
+microscopic detail
+macroscopic detail
+visible texture
+tactile appearance
+touchable quality
+sensory texture
+evocative texture
+character-rich
+personality-filled
+narrative texture
+storytelling detail
+atmospheric texture
+ambient texture
+environmental detail
+contextual texture
+situational detail
+temporal texture
+weathered by time
+aged naturally
+historically textured
+period-authentic
+time-worn
+vintage appearance
+antique finish
+rustic character
+handcrafted texture
+artisanal quality
+craft detail
+handmade appearance
+ultra-detailed
+crystal-clear
+razor-sharp
+hyper-defined
+microscopically detailed
+tack-sharp
+grain-free
+noise-free
+pristine
+immaculate
+flawless
+unblemished
+uncompromising clarity
+perfect resolution
+ultra-high definition
+pixel-perfect
+clinically sharp
+surgical precision
+laboratory-grade clarity
+technical perfection
+optically pure
+perfect focus
+distortion-free
+aberration-free
+chromatic-perfect
+refraction-perfect
+diffraction-controlled
+luminosity-perfect
+perfectly exposed
+tonally perfect
+dynamic range perfection
+shadow detail perfection
+highlight detail perfection
+perfect midtone detail
+textural revelation
+minutely detailed
+infinitesimal detail
+infinite detail
+impossibly detailed
+beyond human perception
+microscopic fidelity
+macroscopic perfection
+pore-level detail
+follicle-definition
+cellular-level detail
+microtexture perfection
+subcutaneous detail
+dermal texture clarity
+epidermal precision
+capillary-visible
+follicular definition
+cutaneous perfection
+textile weave-perfect
+thread-count visible
+fiber-distinguishable
+fabric weave-defined
+textile tension-visible
+stitch-perfect
+seam-defined
+thread-texture visible
+warp and weft defined
+fiber-strand visible
+textile-grain perfect
+leather grain-perfect
+hide-texture defined
+pebble-grain visible
+natural patina-defined
+leather pore-visible
+suede nap-defined
+leather crease-perfect
+hide marking-defined
+wood grain-perfect
+growth ring-defined
+wood pore-visible
+lignin structure-visible
+heartwood-sapwood definition
+wood fiber-defined
+grain direction-perfect
+knot structure-detailed
+wood cellular-visible
+bark texture-perfect
+metal surface-perfect
+metallurgical-defined
+alloy structure-visible
+metal grain-defined
+metal polish-perfect
+brushed texture-defined
+anodized surface-perfect
+oxidation-defined
+patina formation-perfect
+corrosion detail-perfect
+metal crystalline-visible
+metallic luster-perfect
+reflective quality-perfect
+stone texture-perfect
+geological formation-visible
+mineral crystal-defined
+stratification-visible
+stone grain-perfect
+rock crystalline-visible
+geological layering-defined
+metamorphic detail-perfect
+igneous texture-defined
+sedimentary layering-perfect
+mineral vein-defined
+fossil detail-perfect
+stone weathering-defined
+water surface-perfect
+liquid tension-visible
+meniscus-defined
+droplet formation-perfect
+water ripple-defined
+surface tension-visible
+fluid dynamics-visible
+liquid flow-perfect
+hydraulic movement-defined
+splash formation-perfect
+water bead-defined
+liquid crystal-perfect
+precipitation-defined
+water vapor-visible
+condensation-perfect
+frost formation-defined
+ice crystal-perfect
+snowflake structure-defined
+snow texture-perfect
+glass texture-perfect
+vitreous surface-defined
+glass bubble-visible
+reflection-perfect
+refraction-defined
+transparent detail-perfect
+translucent gradation-perfect
+light transmission-defined
+glass thickness-visible
+glass imperfection-defined
+crystal structure-perfect
+crystalline formation-defined
+fractal pattern-perfect
+mathematical precision
+geometric perfection
+structural integrity-defined
+architectural texture-perfect
+concrete texture-defined
+cement aggregate-visible
+masonry detail-perfect
+brick texture-defined
+mortar line-perfect
+building material-defined
+construction detail-perfect
+manufactured surface-defined
+industrial finish-perfect
+mechanical texture-defined
+engineered surface-perfect
+technical texture-defined
+food texture-perfect
+culinary detail-defined
+ingredient texture-visible
+gastronomic detail-perfect
+organic structure-defined
+biological detail-perfect
+cellular structure-visible
+anatomical detail-defined
+physiological texture-perfect
+botanical detail-defined
+plant cellular-visible
+foliage texture-perfect
+leaf venation-defined
+floral texture-perfect
+petal structure-defined
+pollen detail-visible
+seed texture-perfect
+fruit skin-defined
+atmospheric texture-perfect
+meteorological detail-defined
+cloud structure-perfect
+precipitation formation-visible
+weather pattern-defined
+atmospheric condition-perfect
+environmental texture-defined
+terrain detail-perfect
+topographical precision
+geographical texture-defined
+soil composition-visible
+earth texture-perfect
+raw material-defined
+element texture-perfect
+ceramic texture-defined
+porcelain detail-perfect
+glazed surface-defined
+fired finish-perfect
+clay texture-defined
+pottery detail-perfect
+smooth surface-perfection
+polished surface-defined
+matte finish-perfect
+glossy surface-defined
+satin finish-perfect
+luster-defined
+sheen-perfect
+reflectivity-defined
+light interaction-perfect
+shadow casting-defined
+highlight capturing-perfect
+specular reflection-defined
+diffuse reflection-perfect
+subsurface scattering-defined
+translucency-perfect
+opacity-defined
+transparency-perfect
+refractive quality-defined
+diffractive detail-perfect
+light absorption-defined
+spectral interaction-perfect
+natural texture-defined
+synthetic texture-perfect
+manufactured detail-defined
+artificial texture-perfect
+computer-generated detail-defined
+digital precision
+virtual texture-perfect
+simulated detail-defined
+photographic texture-perfect
+cinematographic detail-defined
+videographic texture-perfect
+recorded detail-defined
+captured texture-perfect
+documented detail-defined
+archived texture-perfect
+preserved detail-defined
+realistic texture-perfect
+hyperrealistic detail-defined
+surrealistic texture-perfect
+impressionistic detail-defined
+expressionistic texture-perfect
+minimalistic detail-defined
+maximalistic texture-perfect
+abstract detail-defined
+figurative texture-perfect
+conceptual detail-defined
+documentary texture-perfect
+artistic detail-defined
+stylized texture-perfect
+experimental detail-defined
+traditional texture-perfect
+contemporary detail-defined
+modern texture-perfect
+classical detail-defined
+avant-garde texture-perfect
+vintage detail-defined
+retro texture-perfect
+futuristic detail-defined
+timeless texture-perfect
+historic detail-defined
+period-specific texture-perfect
+cultural detail-defined
+ethnic texture-perfect
+regional detail-defined
+global texture-perfect
+universal detail-defined
+particulate texture-perfect
+granular detail-defined
+powdered texture-perfect
+dust-defined
+sandy texture-perfect
+gritty detail-defined
+coarse texture-perfect
+fine detail-defined
+smooth texture-perfect
+rough detail-defined
+bumpy texture-perfect
+ribbed detail-defined
+ridged texture-perfect
+grooved detail-defined
+striated texture-perfect
+lined detail-defined
+patterned texture-perfect
+repetitive detail-defined
+chaotic texture-perfect
+ordered detail-defined
+structured texture-perfect
+amorphous detail-defined
+crystalline texture-perfect
+amorphous detail-defined
+layered texture-perfect
+stratified detail-defined
+compressed texture-perfect
+tensioned detail-defined
+relaxed texture-perfect
+stressed detail-defined
+weathered texture-perfect
+aged detail-defined
+new texture-perfect
+pristine detail-defined
+untouched texture-perfect
+manipulated detail-defined
+unaltered texture-perfect
+enhanced detail-defined
+natural lighting texture-perfect
+studio lighting detail-defined
+ambient lighting texture-perfect
+directional lighting detail-defined
+diffused lighting texture-perfect
+hard lighting detail-defined
+soft lighting texture-perfect
+dramatic lighting detail-defined
+technical texture-perfect
+clinical detail-defined
+scientific texture-perfect
+laboratory detail-defined
+industrial texture-perfect
+commercial detail-defined
+professional texture-perfect
+expert detail-defined
+masterful texture-perfect
+exceptional detail-defined
+superlative texture-perfect
+insurpassable detail-defined
+unmatched texture-perfect
+unparalleled detail-defined
+incomparable texture-perfect
+peerless detail-defined
+singular texture-perfect
+unprecedented detail-defined
+revolutionary texture-perfect
+evolutionary detail-defined
+transformative texture-perfect
+transcendent detail-defined
+sublime texture-perfect
+exquisite detail-defined
+magnificent texture-perfect
+splendid detail-defined
+glorious texture-perfect
+illustrious detail-defined
+celebrated texture-perfect
+acclaimed detail-defined
+award-winning texture-perfect
+prize-winning detail-defined
+champion texture-perfect
+victorious detail-defined
+triumphant texture-perfect
+successful detail-defined
+accomplished texture-perfect
+achieved detail-defined
+realized texture-perfect
+actualized detail-defined
+manifested texture-perfect
+materialized detail-defined
+embodied texture-perfect
+incarnated detail-defined
+personified texture-perfect
+exemplified detail-defined
+demonstrated texture-perfect
+exhibited detail-defined
+displayed texture-perfect
+revealed detail-defined
+uncovered texture-perfect
+unearthed detail-defined
+discovered texture-perfect
+found detail-defined
