@@ -1,0 +1,97 @@
+high resolution
+4K
+8K
+ultra HD
+megapixel
+RAW format
+JPEG quality
+lossless compression
+aspect ratio
+16:9
+4:3
+1:1
+3:2
+color depth
+bit depth
+dynamic range
+high dynamic range
+color gamut
+sRGB
+Adobe RGB
+ProPhoto RGB
+color profile
+ICC profile
+white balance
+auto white balance
+custom white balance
+kelvin temperature
+tint adjustment
+exposure
+exposure compensation
+exposure bracketing
+aperture
+wide aperture
+narrow aperture
+shutter speed
+high shutter speed
+slow shutter speed
+ISO
+low ISO
+high ISO
+noise reduction
+grain structure
+film grain
+digital noise
+lens distortion
+barrel distortion
+pincushion distortion
+chromatic aberration
+lens flare
+vignetting
+focus
+autofocus
+manual focus
+focus peaking
+focus stacking
+depth of field preview
+bokeh quality
+bokeh balls
+buttery bokeh
+creamy bokeh
+onion ring bokeh
+swirly bokeh
+soap bubble bokeh
+image stabilization
+optical stabilization
+in-body stabilization
+tripod shot
+handheld shot
+hyperfocal distance
+zone focusing
+tethered shooting
+remote trigger
+golden hour
+blue hour
+magic hour
+high key
+low key
+mid tones
+highlights
+shadows
+blacks
+whites
+clarity
+texture
+dehaze
+vibrance
+saturation
+color grading
+color theory
+additive color
+subtractive color
+primary colors
+secondary colors
+tertiary colors
+complementary colors
+analogous colors
+monochromatic
