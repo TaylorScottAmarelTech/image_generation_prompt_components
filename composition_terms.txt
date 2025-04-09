@@ -1,0 +1,76 @@
+rule of thirds
+golden ratio
+golden spiral
+fibonacci spiral
+leading lines
+diagonal lines
+converging lines
+s-curve
+c-curve
+triangular composition
+circular composition
+radial composition
+symmetrical balance
+asymmetrical balance
+formal balance
+informal balance
+dynamic balance
+static composition
+dynamic composition
+minimalist composition
+complex composition
+layered composition
+framing
+natural frame
+foreground interest
+middleground
+background elements
+depth of field
+shallow depth of field
+deep depth of field
+bokeh
+negative space
+positive space
+visual weight
+visual tension
+visual rhythm
+pattern
+repetition
+texture contrast
+color contrast
+tonal contrast
+high contrast
+low contrast
+high key
+low key
+silhouette
+shadow play
+rim light
+backlighting
+sidelighting
+frontlighting
+chiaroscuro
+atmospheric perspective
+linear perspective
+one-point perspective
+two-point perspective
+three-point perspective
+bird's eye view
+worm's eye view
+eye level
+over the shoulder
+portrait orientation
+landscape orientation
+square format
+panoramic format
+macro view
+wide-angle view
+telephoto compression
+zoom burst
+intentional camera movement
+multiple exposure
+composite image
+HDR
+focus stacking
+tilt-shift effect
+vignette
