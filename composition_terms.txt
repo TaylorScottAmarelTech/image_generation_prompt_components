@@ -74,3 +74,872 @@ HDR
 focus stacking
 tilt-shift effect
 vignette
+rule of thirds
+golden ratio
+golden spiral
+fibonacci spiral
+leading lines
+diagonal lines
+converging lines
+s-curve
+c-curve
+triangular composition
+circular composition
+radial composition
+symmetrical balance
+asymmetrical balance
+formal balance
+informal balance
+dynamic balance
+static composition
+dynamic composition
+minimalist composition
+complex composition
+layered composition
+framing
+natural frame
+foreground interest
+middleground
+background elements
+depth of field
+shallow depth of field
+deep depth of field
+bokeh
+negative space
+positive space
+visual weight
+visual tension
+visual rhythm
+pattern
+repetition
+texture contrast
+color contrast
+tonal contrast
+high contrast
+low contrast
+high key
+low key
+silhouette
+shadow play
+rim light
+backlighting
+sidelighting
+frontlighting
+chiaroscuro
+atmospheric perspective
+linear perspective
+one-point perspective
+two-point perspective
+three-point perspective
+bird's eye view
+worm's eye view
+eye level
+over the shoulder
+portrait orientation
+landscape orientation
+square format
+panoramic format
+macro view
+wide-angle view
+telephoto compression
+zoom burst
+intentional camera movement
+multiple exposure
+composite image
+HDR
+focus stacking
+tilt-shift effect
+vignette
+golden triangles
+phi grid
+root rectangles
+horizontal lines
+vertical lines
+implied lines
+orthogonals
+z-pattern
+l-pattern
+u-curve
+arabesque
+rectangular composition
+diamond composition
+cross composition
+grid composition
+quadrant composition
+radial balance
+crystallographic balance
+central weighting
+kinetic composition
+tension points
+force vectors
+visual syncopation
+hierarchical composition
+modular composition
+composite layering
+fractal composition
+atmospheric planes
+spatial compression
+spatial expansion
+figure-ground relationship
+focus pulling
+focus plane isolation
+visual hierarchy
+optical center
+visual anchor
+visual mass
+texture gradients
+organic patterns
+geometric patterns
+stochastic patterns
+tapestry effect
+contrast curve
+microcontrast
+local contrast
+selective contrast
+split lighting
+rembrandt lighting
+loop lighting
+butterfly lighting
+broad lighting
+short lighting
+hard light
+soft light
+dappled light
+ambient light
+practical lighting
+motivated lighting
+glamour lighting
+environmental lighting
+global illumination
+four-point perspective
+five-point perspective
+isometric perspective
+forced perspective
+reverse perspective
+dutch angle
+low angle
+high angle
+ant's perspective
+subjective camera
+objective camera
+letterbox format
+diptych
+triptych
+polyptych
+aspect ratio relationships
+format-appropriate composition
+close-up
+medium shot
+full shot
+wide shot
+establishing shot
+detail shot
+insert shot
+lens flare
+prism effects
+selective color
+edge burning
+border effects
+feathered edges
+hard crop
+bleed composition
+faux film borders
+edge tension
+edge framing
+edge release
+rule of thirds
+subtle rule of thirds
+slight rule of thirds
+golden ratio
+subtle golden ratio
+slight golden ratio
+golden spiral
+subtle golden spiral
+slight golden spiral
+fibonacci spiral
+subtle fibonacci spiral
+slight fibonacci spiral
+leading lines
+subtle leading lines
+slight leading lines
+diagonal lines
+subtle diagonal lines
+slight diagonal lines
+converging lines
+subtle converging lines
+slight converging lines
+s-curve
+subtle s-curve
+slight s-curve
+c-curve
+subtle c-curve
+slight c-curve
+triangular composition
+subtle triangular composition
+slight triangular composition
+circular composition
+subtle circular composition
+slight circular composition
+radial composition
+subtle radial composition
+slight radial composition
+symmetrical balance
+subtle symmetrical balance
+slight symmetrical balance
+asymmetrical balance
+subtle asymmetrical balance
+slight asymmetrical balance
+formal balance
+subtle formal balance
+slight formal balance
+informal balance
+subtle informal balance
+slight informal balance
+dynamic balance
+subtle dynamic balance
+slight dynamic balance
+static composition
+subtle static composition
+slight static composition
+dynamic composition
+subtle dynamic composition
+slight dynamic composition
+minimalist composition
+subtle minimalist composition
+slight minimalist composition
+complex composition
+subtle complex composition
+slight complex composition
+layered composition
+subtle layered composition
+slight layered composition
+framing
+subtle framing
+slight framing
+natural frame
+subtle natural frame
+slight natural frame
+foreground interest
+subtle foreground interest
+slight foreground interest
+middleground
+subtle middleground
+slight middleground
+background elements
+subtle background elements
+slight background elements
+depth of field
+subtle depth of field
+slight depth of field
+shallow depth of field
+subtle shallow depth of field
+slight shallow depth of field
+deep depth of field
+subtle deep depth of field
+slight deep depth of field
+bokeh
+subtle bokeh
+slight bokeh
+negative space
+subtle negative space
+slight negative space
+positive space
+subtle positive space
+slight positive space
+visual weight
+subtle visual weight
+slight visual weight
+visual tension
+subtle visual tension
+slight visual tension
+visual rhythm
+subtle visual rhythm
+slight visual rhythm
+pattern
+subtle pattern
+slight pattern
+repetition
+subtle repetition
+slight repetition
+texture contrast
+subtle texture contrast
+slight texture contrast
+color contrast
+subtle color contrast
+slight color contrast
+tonal contrast
+subtle tonal contrast
+slight tonal contrast
+high contrast
+subtle high contrast
+slight high contrast
+low contrast
+subtle low contrast
+slight low contrast
+high key
+subtle high key
+slight high key
+low key
+subtle low key
+slight low key
+silhouette
+subtle silhouette
+slight silhouette
+shadow play
+subtle shadow play
+slight shadow play
+rim light
+subtle rim light
+slight rim light
+backlighting
+subtle backlighting
+slight backlighting
+sidelighting
+subtle sidelighting
+slight sidelighting
+frontlighting
+subtle frontlighting
+slight frontlighting
+chiaroscuro
+subtle chiaroscuro
+slight chiaroscuro
+atmospheric perspective
+subtle atmospheric perspective
+slight atmospheric perspective
+linear perspective
+subtle linear perspective
+slight linear perspective
+one-point perspective
+subtle one-point perspective
+slight one-point perspective
+two-point perspective
+subtle two-point perspective
+slight two-point perspective
+three-point perspective
+subtle three-point perspective
+slight three-point perspective
+bird's eye view
+subtle bird's eye view
+slight bird's eye view
+worm's eye view
+subtle worm's eye view
+slight worm's eye view
+eye level
+subtle eye level
+slight eye level
+over the shoulder
+subtle over the shoulder
+slight over the shoulder
+portrait orientation
+subtle portrait orientation
+slight portrait orientation
+landscape orientation
+subtle landscape orientation
+slight landscape orientation
+square format
+subtle square format
+slight square format
+panoramic format
+subtle panoramic format
+slight panoramic format
+macro view
+subtle macro view
+slight macro view
+wide-angle view
+subtle wide-angle view
+slight wide-angle view
+telephoto compression
+subtle telephoto compression
+slight telephoto compression
+zoom burst
+subtle zoom burst
+slight zoom burst
+intentional camera movement
+subtle intentional camera movement
+slight intentional camera movement
+multiple exposure
+subtle multiple exposure
+slight multiple exposure
+composite image
+subtle composite image
+slight composite image
+HDR
+subtle HDR
+slight HDR
+focus stacking
+subtle focus stacking
+slight focus stacking
+tilt-shift effect
+subtle tilt-shift effect
+slight tilt-shift effect
+vignette
+subtle vignette
+slight vignette
+golden triangles
+subtle golden triangles
+slight golden triangles
+phi grid
+subtle phi grid
+slight phi grid
+root rectangles
+subtle root rectangles
+slight root rectangles
+horizontal lines
+subtle horizontal lines
+slight horizontal lines
+vertical lines
+subtle vertical lines
+slight vertical lines
+implied lines
+subtle implied lines
+slight implied lines
+orthogonals
+subtle orthogonals
+slight orthogonals
+z-pattern
+subtle z-pattern
+slight z-pattern
+l-pattern
+subtle l-pattern
+slight l-pattern
+u-curve
+subtle u-curve
+slight u-curve
+arabesque
+subtle arabesque
+slight arabesque
+rectangular composition
+subtle rectangular composition
+slight rectangular composition
+diamond composition
+subtle diamond composition
+slight diamond composition
+cross composition
+subtle cross composition
+slight cross composition
+grid composition
+subtle grid composition
+slight grid composition
+quadrant composition
+subtle quadrant composition
+slight quadrant composition
+radial balance
+subtle radial balance
+slight radial balance
+crystallographic balance
+subtle crystallographic balance
+slight crystallographic balance
+central weighting
+subtle central weighting
+slight central weighting
+kinetic composition
+subtle kinetic composition
+slight kinetic composition
+tension points
+subtle tension points
+slight tension points
+force vectors
+subtle force vectors
+slight force vectors
+visual syncopation
+subtle visual syncopation
+slight visual syncopation
+hierarchical composition
+subtle hierarchical composition
+slight hierarchical composition
+modular composition
+subtle modular composition
+slight modular composition
+composite layering
+subtle composite layering
+slight composite layering
+fractal composition
+subtle fractal composition
+slight fractal composition
+atmospheric planes
+subtle atmospheric planes
+slight atmospheric planes
+spatial compression
+subtle spatial compression
+slight spatial compression
+spatial expansion
+subtle spatial expansion
+slight spatial expansion
+figure-ground relationship
+subtle figure-ground relationship
+slight figure-ground relationship
+focus pulling
+subtle focus pulling
+slight focus pulling
+focus plane isolation
+subtle focus plane isolation
+slight focus plane isolation
+visual hierarchy
+subtle visual hierarchy
+slight visual hierarchy
+optical center
+subtle optical center
+slight optical center
+visual anchor
+subtle visual anchor
+slight visual anchor
+visual mass
+subtle visual mass
+slight visual mass
+texture gradients
+subtle texture gradients
+slight texture gradients
+organic patterns
+subtle organic patterns
+slight organic patterns
+geometric patterns
+subtle geometric patterns
+slight geometric patterns
+stochastic patterns
+subtle stochastic patterns
+slight stochastic patterns
+tapestry effect
+subtle tapestry effect
+slight tapestry effect
+contrast curve
+subtle contrast curve
+slight contrast curve
+microcontrast
+subtle microcontrast
+slight microcontrast
+local contrast
+subtle local contrast
+slight local contrast
+selective contrast
+subtle selective contrast
+slight selective contrast
+split lighting
+subtle split lighting
+slight split lighting
+rembrandt lighting
+subtle rembrandt lighting
+slight rembrandt lighting
+loop lighting
+subtle loop lighting
+slight loop lighting
+butterfly lighting
+subtle butterfly lighting
+slight butterfly lighting
+broad lighting
+subtle broad lighting
+slight broad lighting
+short lighting
+subtle short lighting
+slight short lighting
+hard light
+subtle hard light
+slight hard light
+soft light
+subtle soft light
+slight soft light
+dappled light
+subtle dappled light
+slight dappled light
+ambient light
+subtle ambient light
+slight ambient light
+practical lighting
+subtle practical lighting
+slight practical lighting
+motivated lighting
+subtle motivated lighting
+slight motivated lighting
+glamour lighting
+subtle glamour lighting
+slight glamour lighting
+environmental lighting
+subtle environmental lighting
+slight environmental lighting
+global illumination
+subtle global illumination
+slight global illumination
+four-point perspective
+subtle four-point perspective
+slight four-point perspective
+five-point perspective
+subtle five-point perspective
+slight five-point perspective
+isometric perspective
+subtle isometric perspective
+slight isometric perspective
+forced perspective
+subtle forced perspective
+slight forced perspective
+reverse perspective
+subtle reverse perspective
+slight reverse perspective
+dutch angle
+subtle dutch angle
+slight dutch angle
+low angle
+subtle low angle
+slight low angle
+high angle
+subtle high angle
+slight high angle
+ant's perspective
+subtle ant's perspective
+slight ant's perspective
+subjective camera
+subtle subjective camera
+slight subjective camera
+objective camera
+subtle objective camera
+slight objective camera
+letterbox format
+subtle letterbox format
+slight letterbox format
+diptych
+subtle diptych
+slight diptych
+triptych
+subtle triptych
+slight triptych
+polyptych
+subtle polyptych
+slight polyptych
+aspect ratio relationships
+subtle aspect ratio relationships
+slight aspect ratio relationships
+format-appropriate composition
+subtle format-appropriate composition
+slight format-appropriate composition
+close-up
+subtle close-up
+slight close-up
+medium shot
+subtle medium shot
+slight medium shot
+full shot
+subtle full shot
+slight full shot
+wide shot
+subtle wide shot
+slight wide shot
+establishing shot
+subtle establishing shot
+slight establishing shot
+detail shot
+subtle detail shot
+slight detail shot
+insert shot
+subtle insert shot
+slight insert shot
+lens flare
+subtle lens flare
+slight lens flare
+prism effects
+subtle prism effects
+slight prism effects
+selective color
+subtle selective color
+slight selective color
+edge burning
+subtle edge burning
+slight edge burning
+border effects
+subtle border effects
+slight border effects
+feathered edges
+subtle feathered edges
+slight feathered edges
+hard crop
+subtle hard crop
+slight hard crop
+bleed composition
+subtle bleed composition
+slight bleed composition
+faux film borders
+subtle faux film borders
+slight faux film borders
+edge tension
+subtle edge tension
+slight edge tension
+edge framing
+subtle edge framing
+slight edge framing
+edge release
+subtle edge release
+slight edge release
+dominant color
+subtle dominant color
+slight dominant color
+accent color
+subtle accent color
+slight accent color
+color harmony
+subtle color harmony
+slight color harmony
+complementary colors
+subtle complementary colors
+slight complementary colors
+analogous colors
+subtle analogous colors
+slight analogous colors
+monochromatic color scheme
+subtle monochromatic color scheme
+slight monochromatic color scheme
+split complementary colors
+subtle split complementary colors
+slight split complementary colors
+triadic color scheme
+subtle triadic color scheme
+slight triadic color scheme
+tetradic color scheme
+subtle tetradic color scheme
+slight tetradic color scheme
+color grading
+subtle color grading
+slight color grading
+balance of elements
+subtle balance of elements
+slight balance of elements
+juxtaposition
+subtle juxtaposition
+slight juxtaposition
+gestalt principles
+subtle gestalt principles
+slight gestalt principles
+rule of space
+subtle rule of space
+slight rule of space
+rule of odds
+subtle rule of odds
+slight rule of odds
+off-center composition
+subtle off-center composition
+slight off-center composition
+center of interest
+subtle center of interest
+slight center of interest
+dominant element
+subtle dominant element
+slight dominant element
+subliminal composition
+subtle subliminal composition
+slight subliminal composition
+unbalanced composition
+subtle unbalanced composition
+slight unbalanced composition
+weighted composition
+subtle weighted composition
+slight weighted composition
+flat composition
+subtle flat composition
+slight flat composition
+volumetric composition
+subtle volumetric composition
+slight volumetric composition
+harmonic composition
+subtle harmonic composition
+slight harmonic composition
+discordant composition
+subtle discordant composition
+slight discordant composition
+fragmented composition
+subtle fragmented composition
+slight fragmented composition
+unified composition
+subtle unified composition
+slight unified composition
+chromatic aberration
+subtle chromatic aberration
+slight chromatic aberration
+barrel distortion
+subtle barrel distortion
+slight barrel distortion
+pincushion distortion
+subtle pincushion distortion
+slight pincushion distortion
+haze effect
+subtle haze effect
+slight haze effect
+contre-jour
+subtle contre-jour
+slight contre-jour
+filleting
+subtle filleting
+slight filleting
+split toning
+subtle split toning
+slight split toning
+cross-processing effect
+subtle cross-processing effect
+slight cross-processing effect
+color cast
+subtle color cast
+slight color cast
+darkroom vignette
+subtle darkroom vignette
+slight darkroom vignette
+cinematic aspect ratio
+subtle cinematic aspect ratio
+slight cinematic aspect ratio
+film noir lighting
+subtle film noir lighting
+slight film noir lighting
+key light
+subtle key light
+slight key light
+fill light
+subtle fill light
+slight fill light
+kicker light
+subtle kicker light
+slight kicker light
+primary subject
+subtle primary subject
+slight primary subject
+secondary subject
+subtle secondary subject
+slight secondary subject
+rule of diagonals
+subtle rule of diagonals
+slight rule of diagonals
+steelyard principle
+subtle steelyard principle
+slight steelyard principle
+cubic composition
+subtle cubic composition
+slight cubic composition
+diminishing perspective
+subtle diminishing perspective
+slight diminishing perspective
+natural gradient
+subtle natural gradient
+slight natural gradient
+spiral flow
+subtle spiral flow
+slight spiral flow
+rule of shapes
+subtle rule of shapes
+slight rule of shapes
+figure-to-ground contrast
+subtle figure-to-ground contrast
+slight figure-to-ground contrast
+headroom
+subtle headroom
+slight headroom
+leadroom
+subtle leadroom
+slight leadroom
+nose room
+subtle nose room
+slight nose room
+environmental portraiture
+subtle environmental portraiture
+slight environmental portraiture
+storytelling composition
+subtle storytelling composition
+slight storytelling composition
+dynamic symmetry
+subtle dynamic symmetry
+slight dynamic symmetry
+vanishing point composition
+subtle vanishing point composition
+slight vanishing point composition
