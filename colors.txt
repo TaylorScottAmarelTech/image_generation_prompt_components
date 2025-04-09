@@ -1,0 +1,26 @@
+warm golden
+cool blue
+neutral balanced
+warm amber
+cool cyan
+warm magenta
+cool violet
+warm yellow
+cool green
+warm orange
+cool lavender
+neutral gray
+vibrant
+muted
+saturated
+desaturated
+hyper-saturated
+complementary harmony
+split complementary
+analogous harmony
+triadic harmony
+monochromatic harmony
+cinematic grade
+film look
+vintage grade
+modern grade
