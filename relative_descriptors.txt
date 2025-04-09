@@ -1,0 +1,69 @@
+nearby
+adjacent
+close to
+next to
+beside
+alongside
+surrounding
+encircling
+enclosing
+bordering
+neighboring
+proximate
+immediate
+adjoining
+abutting
+contiguous
+touching
+against
+facing
+opposite
+across from
+in front of
+behind
+beyond
+beneath
+above
+below
+underneath
+atop
+over
+under
+within
+inside
+outside
+between
+among
+amid
+amidst
+throughout
+around
+near
+far from
+distant
+remote
+secluded
+isolated
+centered
+off-center
+peripheral
+central
+focal
+foreground
+midground
+background
+horizon
+skyline
+vanishing point
+converging
+diverging
+radiating
+receding
+approaching
+leading to
+following from
+emerging from
+disappearing into
+transitioning to
+flowing into
+connecting with
