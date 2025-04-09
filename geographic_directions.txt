@@ -1,0 +1,101 @@
+north
+south
+east
+west
+northeast
+northwest
+southeast
+southwest
+northern
+southern
+eastern
+western
+northeastern
+northwestern
+southeastern
+southwestern
+far north
+deep south
+far east
+far west
+northernmost
+southernmost
+easternmost
+westernmost
+due north
+due south
+due east
+due west
+north-facing
+south-facing
+east-facing
+west-facing
+northern hemisphere
+southern hemisphere
+eastern hemisphere
+western hemisphere
+equatorial
+tropical
+subtropical
+temperate
+polar
+arctic
+antarctic
+subarctic
+subantarctic
+boreal
+austral
+meridional
+septentrional
+oriental
+occidental
+tropic of cancer
+tropic of capricorn
+arctic circle
+antarctic circle
+equator
+prime meridian
+international date line
+high latitude
+low latitude
+mid-latitude
+continental
+coastal
+insular
+peninsular
+inland
+maritime
+oceanic
+alpine
+montane
+lowland
+highland
+upland
+central
+peripheral
+remote
+frontier
+borderland
+coastal plain
+interior plain
+inland sea
+coastal waters
+high seas
+open ocean
+deep ocean
+shallow waters
+inshore
+offshore
+upstream
+downstream
+windward
+leeward
+interior
+exterior
+proximal
+distal
+central
+peripheral
+foreground
+background
+midground
