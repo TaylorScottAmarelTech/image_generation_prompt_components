@@ -1,0 +1,55 @@
+spring
+summer
+autumn
+fall
+winter
+early spring
+mid-spring
+late spring
+early summer
+midsummer
+late summer
+early autumn
+mid-autumn
+late autumn
+early fall
+mid-fall
+late fall
+early winter
+midwinter
+late winter
+deep winter
+harsh winter
+mild winter
+crisp winter
+snowy winter
+icy winter
+gentle spring
+blooming spring
+vibrant spring
+hot summer
+dry summer
+humid summer
+rainy summer
+golden autumn
+colorful fall
+foggy autumn
+frosty winter
+wet season
+dry season
+monsoon season
+hurricane season
+storm season
+growing season
+harvest season
+planting season
+wildflower season
+blossom season
+migration season
+hibernation season
+thaw season
+cherry blossom season
+maple season
+foliage season
+solstice
+equinox
