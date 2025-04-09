@@ -88,8 +88,6 @@ selective color
 color blocking
 gradient mapping
 LUT application
-# Comprehensive Color Modifiers for Stable Diffusion Prompts
-
 warm golden
 warm amber
 warm magenta
