@@ -50,3 +50,53 @@ Beach House, Waterfront, Towering, Golden Hour, Renaissance Revival, Brick, Zinc
 Beach House, Coastal, Dramatic, (Morning Light), Craftsman, Reclaimed Wood, Red Brick, Sliding Glass Doors, Zen Garden, Cream, Impressive, Remarkable, Foggy, Night Photography, guest house
 Beach House, Beachfront, Imposing, Sunset, Deconstructivist, Aluminum, Shingles, Outdoor Kitchen, Evergreen Trees, Exposed Brick, Spectacular, Hazy, Ultra Wide Angle, Midsummer, observation deck, koi pond
 Beach House, Oceanfront, Angular, Golden Hour, Rustic, Copper, Aluminum, Back Porch, Dormer Windows, Garage, Off-white, Striking, Custom, Calm, Eye Level, (Noon), tree house, forest views
+fresh Jackfruit, (layered view), Poached, Grapefruit, Caramel Drizzle, high-key lighting, marble countertop, whimsical, cheerful, Modern, Precise, Signature, Gooey, Melting
+fresh Passion Fruit, three-quarter view, Twisted, Guava, Caramel Drizzle, chiaroscuro, outdoor setting, rustic, Artisanal
+fresh Kumquat, full presentation, (Compressed), Peanut, Frosting, natural light, nostalgic, (comforting), Divine, Sublime, Chewy
+fresh Strawberry, full presentation, Dehydrated, Almond, Royal Icing, warm lighting, (beach), vibrant, whimsical, Exquisite, Indulgent, (Subtle)
+fresh Coconut, macro shot, Torched, Cinnamon, Rosettes, diffused light, (), playful, Deluxe
+fresh Gooseberry, cut surface, Glazed, Lemon, Chocolate, Sugar Work, rim light, cheerful, Classic, Deluxe, Intense
+fresh Avocado, full presentation, Steamed, (Earl Grey), (Rosettes), backlit, (elegant), Enticing
+fresh Grapefruit, overhead view, Hand-formed, Almond, Coffee, Frosting, chiaroscuro, ceramic plate, comforting, playful, Decadent, Professional, Floral
+fresh Cherry, interior visible, Filled, Cinnamon, Strawberry, Sliced Fruit, studio lighting, nostalgic, Heavenly, Specialty, Fragrant
+fresh Melon, composition, Candied, Jasmine, sidelit, table, peaceful, Luxurious, Extraordinary, Chewy
+Earl Grey Gateau, Bruléed, Walnut, Raspberry, Flourishes, (interior visible), high-key lighting, home , inviting, Captivating, Artisanal, Innovative, Bold, Mellow
+Anise Petit Four, (Molded), Strawberry, Flourishes, arrangement, low-key lighting, patisserie, casual, nostalgic, Contemporary, (Flawless), Light
+(Coffee Cannoli), Filled, Coconut, Whipped Cream, (), dramatic lighting, casual, Whimsical
+Pumpkin Spice Brownie, Sautéed, Nutmeg, Luster Dust, styled, dramatic lighting, fulfilling, celebratory, Premium, Specialty, Tart
+Apricot Madeleine, Stuffed, Pear, Sprinkles, overhead view, rim light, terrace, appetizing, elegant, Breathtaking, Mouthwatering, Mellow
+Strawberry Scone, (Pickled), Guava, Dragees, full presentation, dark and moody, table, (energetic), (rustic), Professional, Tantalizing, Tart
+(Peanut Sorbet), Foam, Coffee, Cookie Crumble, cut surface, (moody lighting), picnic setting, (rustic), Flawless, Creative, Tart
+(Mango Cheesecake), Filled, Strawberry, Cinnamon, Fondant, layered view, (cool lighting), patisserie, refreshing, whimsical, Decadent, (Elegant), Smooth
+Rose Pancake, Layered, Earl Grey, Jasmine, Candied Fruits, straight-on view, soft lighting, terrace, celebratory, revitalizing, Captivating, Enticing, Renowned, Seasonal, Intense
+American Blueberry Muffin, Outstanding, Layered, Cherry, Ginger, Candied Nuts, cut surface, natural light, outdoor setting, appetizing, relaxed
+American Cheesecake, Exceptional, (Sculpted), Maple, (Chocolate Shavings), full presentation, natural light, inviting
+American Cheesecake, Handcrafted, Latticed, Coffee, Buttercream, three-quarter view, dark and moody, (picnic setting), peaceful
+American Cobbler, Innovative, Steamed, Cherry, Pistachio, Cookie Crumble, interior visible, cool lighting, modern , serene
+American Cheesecake, Sumptuous, Braided, Hazelnut, (Rosettes), styled, rim light, cheerful, (playful)
+(American Cinnamon Roll), Enticing, (Roasted), Ginger, Mocha, Frosting, cross-section, (high-key lighting), beach, rejuvenating, serene
+American Chocolate Chip Cookie, Stunning, Dusted, Pecan, Rose, Powdered Sugar, three-quarter view, sidelit, playful, luxurious
+American Pecan Pie, Indulgent, Molded, Passion Fruit, Candied Fruits, styled, dramatic lighting, elegant
+(Bread Pudding), crusty, Baked, Apple, (Chocolate Work), (overhead view), dark and moody, appetizing, Decadent
+Cake on , celebration, Roasted, Nutmeg, Coconut, Chocolate Work, three-quarter view, diffused light, serene, Premium, Extravagant, Authentic, Frozen, Lively
+Focaccia, freshly baked, Decorated, Caramel, Nonpareils, side view, cool lighting, celebratory, Tantalizing, Tempting, Tangy
+Roll, (crusty), Candied, (Anise), (interior visible), golden hour glow, energetic, Eye-catching
+Pastry, flaky, Dehydrated, Nutmeg, full presentation, golden hour glow, elegant, Remarkable, Creative, Tender
+Baguette, artisanal, Glazed, Strawberry, composition, high-key lighting, slate surface, refreshing, Dazzling
+Cinnamon Roll on modern , (warm), Braided, Coconut, Compote, arrangement, golden hour glow, relaxed, serene, Luxurious, Premium, Hot
+Asian Dorayaki, Creative, Topped, Banana, Cherry, Edible Flowers, styled, rim light, fine setup, calm, cheerful
+Asian Mochi, Creative, Freeze-dried, Caramel, close-up, (overhead lighting), (rustic table), energetic
+Asian Dorayaki, (Captivating), Braided, (Toffee), Mirror Glaze, composition, sidelit, terrace, whimsical
+Asian Taiyaki, Celebrated, Sprinkled, Chocolate, Edible Flowers, composition, (dramatic lighting), (), (rustic)
+Asian Dragon Beard Candy, Extravagant, Decorated, Pecan, Toffee, Dusting, three-quarter view, soft lighting, outdoor setting, serene
+Palmier, Meticulous, Sous-vide, Nutmeg, Chocolate Curls, angled view, bright and airy, calm
+Rugelach, Handcrafted, Steamed, Guava, Maple, Chocolate Work, (cross-section), rim light, terrace, fulfilling, revitalizing
+English Muffin, Remarkable, Latticed, Matcha, Pecan, Cinnamon, styled, moody lighting, fine setup, cozy, elegant
+Focaccia, perfect, Roasted, Pumpkin Spice, Chocolate Ganache, close-up, studio lighting, bakery, indulgent, Tempting, Creative, Fluffy
+Strudel, Exquisite, Powder, Pecan, Gold Leaf, composition, backlit, nostalgic, relaxed
+Dark Chocolate, Candied Nuts, Torched, Maple, straight-on view, natural light, rustic, Outstanding, Irresistible, Tender
+Italian Torta Caprese, Refined, Caramelized, Honey, Crystallized Flowers, side view, soft lighting, whimsical
+Italian Torta Caprese, Striking, Fried, (Vanilla), detail shot, high-key lighting, wooden surface, indulgent
+Italian Amaretti, Heavenly, Sous-vide, Caramel, Apricot, Compote, sidelit, peaceful, nostalgic
+Italian Bomboloni, Tempting, (Twisted), Pear, detail shot, (window light), farmers market, comforting
+Italian Pizzelle, Exacting, Latticed, Caramel, straight-on view, spotlight, rustic table, revitalizing
