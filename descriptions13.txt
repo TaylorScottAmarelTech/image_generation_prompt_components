@@ -503,7 +503,6 @@ rotating makeup organizer with glowing accent lights, white tabletop, styled bea
 aromatherapy bath bomb set glowing softly in gift box, rose petals and towel staged, perfect holiday Amazon gift photo
 Below is an extended list of 100 Stable Diffusion prompts specifically tailored for generating Pinterest-worthy images focused on home decor, art, wall art, 3D art, tables, and rugs. These prompts are designed to create visually captivating images that drive product sales, website clicks, and traffic for e-commerce or content marketing. Each prompt emphasizes glowing elements, heart-shaped details, and Pinterest-popular aesthetics (e.g., cozy, minimalist, bohemian, or luxury vibes) to attract attention and encourage engagement. Optimized for Stable Diffusion, these prompts prioritize high detail and commercial appeal for home decor products.
 Home Decor: Wall Art & 3D Art
-
 Minimalist Abstract Wall Art: "Framed minimalist abstract art with soft gold and cream swirls, glowing wall sconce, textured white wall, small potted plant, Scandinavian aesthetic, high resolution, designed for art print sales"
 Boho Macramé Wall Hanging: "Intricate macramé wall hanging with heart-shaped knots, glowing fairy lights, neutral wood shelf, dried pampas grass, bohemian aesthetic, high detail, styled for home decor clicks"
 3D Textured Wall Art: "3D textured wall art with layered plaster design, glowing pendant light, sage green accent wall, minimalist console, high resolution, perfect for modern art promotion"
@@ -524,9 +523,7 @@ Minimalist Heart Art Print: "Framed minimalist heart-shaped art print, glowing o
 Boho Sunburst Wall Art: "Boho sunburst wall art with woven details, glowing fairy lights, heart-shaped ceramic vase, earthy aesthetic, high detail, perfect for home decor clicks"
 3D Abstract Wall Sculpture: "3D abstract wall sculpture in matte white, glowing pendant light, neutral console, minimalist aesthetic, high resolution, designed for modern art traffic"
 Vintage Map Wall Art: "Framed vintage map print with heart-shaped city marker, glowing floor lamp, rustic wooden shelf, cozy aesthetic, high detail, styled for art print promotion"
-
 Home Decor: Tables
-
 Rustic Wooden Dining Table: "Rustic wooden dining table with glowing candles, heart-shaped place cards, soft linen tablecloth, cozy aesthetic, high resolution, designed for furniture brand sales"
 Marble Coffee Table Display: "White marble coffee table with gold accents, glowing orb lamp, heart-shaped coasters, neutral aesthetic, high detail, styled for home decor clicks"
 Minimalist Console Table: "Sleek minimalist console table in matte black, glowing diffuser, heart-shaped vase, textured wall backdrop, Scandinavian aesthetic, high resolution, perfect for furniture promotion"
@@ -547,9 +544,7 @@ Modern Nesting Tables: "Set of modern nesting tables in matte black, glowing can
 Boho Woven Dining Table: "Boho woven dining table with glowing pendant lights, heart-shaped napkins, earthy tones, high detail, designed for furniture brand clicks"
 Marble Accent Table: "Marble accent table with glowing orb lamp, heart-shaped tray, soft neutral rug, luxury aesthetic, high resolution, perfect for home decor sales"
 Mid-Century Side Table: "Mid-century side table with glowing ceramic lamp, heart-shaped coasters, retro rug, high detail, styled for furniture brand traffic"
-
 Home Decor: Rugs
-
 Neutral Shag Rug Scene: "Soft neutral shag rug under a coffee table, glowing orb lamp, heart-shaped coasters, cozy aesthetic, high resolution, designed for rug brand sales"
 Boho Woven Area Rug: "Boho woven area rug with earthy patterns, glowing fairy lights, heart-shaped cushion, minimalist furniture, high detail, styled for home decor clicks"
 Minimalist Geometric Rug: "Geometric minimalist rug in cream and gray, glowing floor lamp, heart-shaped vase, Scandinavian aesthetic, high resolution, perfect for rug brand promotion"
@@ -570,9 +565,7 @@ Boho Layered Rugs: "Layered boho rugs with earthy tones, glowing fairy lights, h
 Luxury Silk Rug: "Luxury silk rug in neutral tones, glowing pendant light, heart-shaped vase, minimalist aesthetic, high detail, perfect for rug brand traffic"
 Patterned Entryway Rug: "Patterned entryway rug with glowing diffuser, heart-shaped key tray, dried eucalyptus, cozy aesthetic, high resolution, designed for rug sales"
 Minimalist Heart Rug: "Minimalist heart-shaped rug in a nursery, glowing moon lamp, soft textiles, neutral aesthetic, high detail, styled for rug promotion"
-
 Home Decor: Mixed Elements
-
 Cozy Coffee Table Scene: "Wooden coffee table with glowing candle tray, heart-shaped coasters, plush neutral rug, Scandinavian aesthetic, high resolution, designed for home decor sales"
 Boho Wall and Table Combo: "Boho macramé wall art above a rattan console, glowing diffuser, heart-shaped vase, textured rug, earthy aesthetic, high detail, styled for decor clicks"
 Minimalist Art and Rug Set: "Framed minimalist art print above a sleek console, glowing orb lamp, geometric rug, heart-shaped vase, Scandinavian aesthetic, high resolution, perfect for decor promotion"
@@ -1136,3 +1129,94 @@ Maui’s Makawao Forest: "Makawao Forest with glowing eucalyptus trees, heart-sh
 Oahu’s Lanikai Pillbox Hike: "Lanikai Pillbox Hike with glowing ocean views, heart-shaped cloud patterns, turquoise water, high resolution, majestic aesthetic for photography promotion"
 Kauai’s Kalalau Beach: "Kalalau Beach with glowing Na Pali cliffs, heart-shaped wave patterns, turquoise ocean, high detail, tropical aesthetic for travel sales"
 Big Island’s Honomu Waterfall: "Honomu Waterfall with glowing mist, heart-shaped pool, lush rainforest, high resolution, serene aesthetic for photography clicks"
+Modern minimalist living room with floor-to-ceiling windows, soft morning light streaming through sheer curtains, neutral beige linen sofa with textured throw pillows, warm oak coffee table with ceramic vase holding dried pampas grass, polished concrete floors with jute area rug, gallery wall with abstract art in muted tones, ambient glow from hidden LED strips, Scandinavian-inspired design, magazine-quality interior photography, shallow depth of field
+Cozy bohemian reading corner with vintage rattan peacock chair, macramé wall hanging, stack of art books on wooden side table, trailing pothos in terracotta planter, warm afternoon sunlight creating geometric shadows, layered ethnic textiles, brass floor lamp with Edison bulb, dusty rose and sage green color palette, lifestyle photography with natural lighting
+Bright farmhouse kitchen with white shaker cabinets, butcher block island, black iron hardware, subway tile backsplash with dark grout, open shelving displaying artisan ceramics, fresh herbs in mason jars on windowsill, pendant lights with woven shades, morning light highlighting marble countertops, styled with copper cookware and linen dish towels, architectural digest quality
+Modern coastal kitchen with sage green lower cabinets, white quartz waterfall countertop, brass fixtures, natural wood floating shelves, ocean-view windows with roman shades, styled with white ceramic bowls and fresh lemons, rattan bar stools, soft natural lighting creating airy atmosphere, professional real estate photography
+Serene master bedroom with upholstered linen headboard in warm gray, layered white bedding with subtle texture, bedside tables in light oak with ceramic lamps, sheer curtains filtering golden hour light, minimalist gallery wall, eucalyptus in glass vase, soft area rug, calming neutral palette, hotel-inspired styling, lifestyle photography
+Romantic cottage bedroom with wrought iron bed frame, vintage floral quilt, distressed white nightstands, soft pink walls, crystal chandelier casting warm glow, lace curtains, fresh peonies in antique pitcher, weathered wood floors, shabby chic aesthetic, dreamy soft focus photography
+Elegant autumn flat lay on marble surface, cashmere scarf in camel tone, leather gloves, vintage gold watch, small Moleskine journal, dried eucalyptus sprigs, cup of cappuccino with perfect foam art, soft window light creating gentle shadows, minimalist styling, overhead shot with perfect symmetry
+Spring capsule wardrobe flat lay on white background, folded linen pieces in soft pastels, woven straw hat, delicate gold jewelry, fresh lavender stems, neutral leather sandals, silk scarf with botanical print, clean product photography with soft shadows
+Luxurious spa bathroom scene with freestanding tub, fluffy white towels on wooden stool, glass bottles of bath oils, burning candles in mercury glass holders, eucalyptus bundle hanging from shower, natural light filtering through frosted window, marble surfaces, zen-inspired minimal styling
+Morning skincare ritual setup on vanity, jade roller and gua sha tools, amber glass serum bottles, fresh roses in bud vase, soft pink silk robe draped on chair, circular LED mirror providing flattering light, organized beauty products in acrylic containers, lifestyle beauty photography
+Rustic breakfast spread on reclaimed wood table, sourdough toast with avocado roses, poached eggs, fresh berries in ceramic bowls, french press coffee, linen napkins, wildflowers in mason jar, morning sunlight streaming across table, overhead food photography with natural styling
+Elegant dinner party table setting with deep blue linen tablecloth, gold-rimmed plates, crystal glassware catching candlelight, eucalyptus garland centerpiece, place cards in calligraphy, soft bokeh background, twilight ambiance, editorial food styling
+Artisan bread photography with freshly baked sourdough loaves on cooling rack, flour dusting on dark wood surface, vintage bread knife, linen tea towel, wheat stalks, warm golden hour light from kitchen window, rustic French bakery aesthetic
+Pastel macarons arranged on marble cake stand, delicate pink peonies, gold cake server, soft natural light, shallow depth of field with creamy bokeh, French patisserie styling, editorial dessert photography
+Santorini sunset view from private terrace, white-washed walls with blue accents, bougainvillea in full bloom, infinity pool reflecting golden sky, comfortable outdoor seating with linen cushions, Mediterranean Sea in background, travel lifestyle photography with warm color grading
+Cozy mountain cabin interior with stone fireplace, plaid wool blankets on leather sofa, steaming mug of cocoa on reclaimed wood coffee table, snow-covered peaks visible through large windows, warm amber lighting, rustic luxury retreat aesthetic
+Misty forest path at dawn with rays of sunlight filtering through tall pines, moss-covered stones, delicate ferns, morning dew on spider webs, ethereal atmosphere, fine art nature photography with muted green tones
+Lavender field in Provence at golden hour, endless purple rows leading to stone farmhouse, soft breeze creating gentle movement, honey-colored sunlight, dreamy bokeh effect, romantic landscape photography
+Organized craft room with pegboard wall displaying colorful supplies, white desk with natural wood top, mason jars filled with brushes and markers, yarn storage in woven baskets, inspiring mood board, bright natural light from window, creative workspace photography
+Vintage sewing corner with antique Singer machine, wooden thread spool holder, pincushion collection, fabric swatches in soft florals, brass scissors, afternoon light creating nostalgic mood, cottage core aesthetic styling
+Romantic bridal bouquet with garden roses, peonies, and eucalyptus, silk ribbon in dusty blue, vintage lace from grandmother's dress wrapped around stems, soft natural light, fine art wedding photography with film-inspired tones
+Elegant reception table with tall taper candles in brass holders, burgundy and blush floral arrangements, gold-rimmed charger plates, calligraphy menus, crystal glassware, ambient string lights creating warm glow, luxury wedding styling
+Cozy fall porch styling with stacked pumpkins in neutral tones, plaid throw on rocking chair, lanterns with pillar candles, corn stalks, warm cider in vintage mugs, golden afternoon light, seasonal home decor photography
+Thanksgiving table setting with linen runner, mini pumpkins as place cards, burgundy napkins, gold flatware, centerpiece of autumn leaves and white candles, overhead shot showing careful arrangement, warm hospitality styling
+Minimalist Christmas tree with white lights, natural wood ornaments, linen ribbon garland, presents wrapped in kraft paper with greenery, Scandinavian-inspired holiday decor, soft morning light, editorial holiday photography
+Cozy fireplace mantel decorated with evergreen garland, battery-operated fairy lights, mercury glass votives, stockings in neutral linen, minimalist winter styling, warm ambient lighting creating hygge atmosphere
+Handmade ceramic mug collection on floating shelves, each piece unique with subtle glaze variations, styled with dried flowers, soft side lighting highlighting textures, artisan product photography for small business
+Luxury candle display with minimalist labels, arranged on marble tray with matches in glass jar, subtle smoke wisps, moody lighting with dark background, premium product styling for e-commerce
+Delicate gold jewelry pieces on pink velvet surface, natural pearls, vintage ring box, dried baby's breath, soft diffused lighting creating subtle sparkle, elevated product photography for boutique brand
+Leather handbag collection styled with fashion magazines, coffee table books, fresh flowers, natural window light, lifestyle product photography showing everyday luxury
+Modern home office with floating walnut desk, ergonomic chair in cognac leather, organized shelving with books and plants, soft morning light through blinds, minimalist workspace with warm wood tones, productivity-focused interior design
+Bathroom vanity organization with clear acrylic drawers, marble countertop, gold fixtures, fresh white towels rolled in basket, succulent in ceramic planter, bright natural light, spa-like organization aesthetic
+Boho nursery with macramé wall hanging, natural wood crib, soft earth-toned textiles, rattan lighting fixture, potted fiddle leaf fig, morning light creating peaceful atmosphere, gender-neutral baby room design
+Industrial loft bedroom with exposed brick wall, black metal bed frame, Edison bulb string lights, concrete floors with vintage rug, leather bench at foot of bed, urban minimalist styling with warm accents
+French country dining room with distressed wood table, upholstered chairs in natural linen, iron chandelier, stone wall accent, fresh lavender centerpiece, soft afternoon light, rustic elegance interior photography
+Scandinavian entryway with built-in storage bench, hooks for coats, woven baskets underneath, simple mirror with wood frame, small potted plant on floating shelf, clean minimalist organization, bright and functional space
+Modern laundry room with stacked washer dryer, floating shelves with woven baskets, marble-look countertop for folding, subway tile backsplash, organized cleaning supplies in glass jars, fresh and functional design
+Coastal living room with white slipcovered sofa, blue striped pillows, weathered wood coffee table, jute rug, nautical artwork, large windows with ocean view, breezy beach house interior styling
+Mediterranean kitchen with terracotta tile backsplash, open shelving displaying colorful ceramics, copper pots hanging from rack, fresh herbs on windowsill, arched doorways, warm rustic European style
+Japanese-inspired bathroom with soaking tub, bamboo accents, pebble shower floor, minimal floating vanity, soft indirect lighting, zen garden view through window, serene spa-like atmosphere
+Maximalist powder room with bold floral wallpaper, gold fixtures, vintage mirror with ornate frame, marble sink, jewel-toned accents, dramatic lighting, luxurious small space design
+Desert modern living room with low-profile furniture, warm terracotta tones, cacti and succulents, large abstract art, clerestory windows, minimalist southwestern style with natural textures
+English garden tea party setup with vintage china, tiered cake stand with scones, fresh flowers in teapots, lace tablecloth, dappled sunlight through trees, romantic outdoor entertaining
+Moody home library with floor-to-ceiling bookshelves, leather wingback chair, antique globe, Persian rug, table lamp casting warm glow, rich wood paneling, sophisticated reading room aesthetic
+Minimalist walk-in closet with custom white shelving, organized by color, LED strip lighting, center island with jewelry drawers, full-length mirror, luxury organization system
+Artist studio with paint-splattered wooden table, brushes in glass jars, canvas on easel by window, vintage stool, natural north light, creative workspace with authentic charm
+Modern farmhouse mudroom with shiplap walls, built-in cubbies, vintage hooks, checkered floor tile, bench with storage baskets, functional family entrance design
+Tropical outdoor living space with rattan furniture, colorful cushions, hanging plants, string lights overhead, bamboo privacy screen, vacation-inspired patio styling
+Hygge reading nook with built-in window seat, soft cushions and throws, floating shelves with books, warm wood tones, soft lamp light, cozy Scandinavian-inspired corner
+Mid-century modern living room with teak furniture, geometric rug, brass floor lamp, fiddle leaf fig in planter, large windows, retro-inspired interior with contemporary updates
+Rustic bathroom with clawfoot tub, reclaimed wood vanity, vintage mirror, exposed beams, basket of rolled towels, natural light through frosted window, farmhouse spa aesthetic
+Contemporary kitchen with two-toned cabinets, waterfall island, integrated appliances, minimal hardware, pendant lighting, clean lines and neutral palette, high-end modern design
+Eclectic bedroom with vintage brass bed, mix of patterned textiles, gallery wall with collected art, plants on nightstand, warm layered lighting, personalized bohemian style
+Small space home office in closet conversion, floating desk, pegboard organization, task lighting, compact chair, maximized vertical storage, clever tiny space solution
+Outdoor kitchen with built-in grill, concrete counters, bar seating, pergola overhead with string lights, herb garden nearby, entertainment-ready backyard design
+Monochromatic nursery in soft grays and whites, modern crib, cozy rocking chair, cloud mobile, textured rug, blackout curtains, peaceful minimalist baby room
+Vintage-inspired kitchen with mint green cabinets, checkered floor, retro appliances, open shelving with collected dishes, fresh flowers on table, nostalgic 1950s style update
+Luxe master bathroom with double vanity, marble surfaces, freestanding tub, glass shower, heated floors, chandelier, spa-like retreat with hotel amenities
+Sunroom breakfast nook with bistro table, woven chairs, hanging plants, lots of windows, morning light streaming in, cheerful plant-filled dining space
+Teen bedroom with loft bed, desk underneath, string lights, cork board with photos, bean bag chair, organized shelving, functional and stylish youth room
+Modern coastal bathroom with penny tile floor, floating vanity, round mirror, natural wood accents, white and blue palette, fresh beach-inspired design
+Attic conversion bedroom with slanted ceilings, skylight, built-in storage, cozy reading chair, soft carpeting, warm wood beams, charming tucked-away retreat
+Outdoor dining area with long wooden table, mix of chairs, overhead string lights, potted herbs as centerpiece, gravel patio, European-inspired al fresco entertaining
+Traditional library with built-in mahogany shelving, rolling ladder, tufted leather sofa, oriental rug, banker's lamp on desk, classical scholarly atmosphere
+Minimalist entryway with floating console, round mirror, single piece of art, small tray for keys, one plant, clean and uncluttered first impression
+Cottage kitchen with beadboard backsplash, apron sink, glass-front cabinets, vintage hardware, fresh flowers, checkerboard floor, charming English countryside style
+Industrial home office with metal desk, exposed pipes, concrete walls, vintage filing cabinet, task lighting, urban loft workspace aesthetic
+Zen bedroom with low platform bed, minimal decor, natural linen bedding, paper lantern light, small bonsai, calming neutral palette, peaceful retreat design
+Colorful kids playroom with built-in storage, reading tent, art station, soft play mats, organized toy bins, bright and cheerful family-friendly space
+Art deco bathroom with geometric tile, pedestal sink, ornate mirror, brass fixtures, bold wallpaper, glamorous 1920s-inspired powder room
+Scandinavian dining room with light wood table, wishbone chairs, simple pendant light, white walls, minimal centerpiece, bright and airy eating space
+Modern rustic bedroom with reclaimed wood accent wall, iron bed frame, neutral bedding, vintage nightstands, exposed beams, cozy cabin-inspired design
+Small balcony garden with vertical planters, folding furniture, string lights, outdoor rug, potted herbs, maximized urban outdoor living space
+Transitional living room with classic furniture shapes, updated fabrics, mix of traditional and modern art, layered lighting, timeless yet current design
+Southwestern bedroom with adobe-colored walls, woven textiles, carved wood furniture, cacti on nightstand, wrought iron details, desert-inspired retreat
+French provincial bathroom with toile wallpaper, clawfoot tub, vintage vanity, ornate mirror, soft pastels, romantic European countryside style
+Open concept kitchen and living area with consistent flooring, cohesive color palette, defined zones, natural flow between spaces, modern family-friendly layout
+Masculine home office with dark wood desk, leather chair, vintage maps on wall, brass desk lamp, organized bookshelves, sophisticated professional workspace
+Coastal guest bedroom with shiplap accent wall, rope details, nautical art, light blue and white bedding, natural textures, welcoming beach house room
+Modern farmhouse bathroom with barn door, vessel sink on wood vanity, black fixtures, hexagon floor tile, simple and stylish rural-inspired design
+Eclectic living room with vintage finds, bold pattern mix, colorful art collection, unique furniture pieces, layered rugs, personality-filled curated space
+Minimalist dining room with live-edge table, simple black chairs, single pendant light, white walls, one piece of art, clean contemporary eating area
+Mountain cabin kitchen with log walls, stone counters, cast iron cookware display, plaid curtains, vintage stove, authentic rustic cooking space
+Contemporary nursery with geometric wall decals, modern furniture, neutral palette with one accent color, organized storage, stylish baby room design
+Traditional dining room with formal table, upholstered chairs, crystal chandelier, crown molding, sideboard with silver, elegant entertaining space
+Boho bathroom with patterned tile, wooden vanity, macramé plant hanger, vintage rug, collected accessories, free-spirited eclectic design
+Scandinavian home office with white desk, light wood shelving, minimal accessories, plenty of natural light, clean and focused workspace
+Desert modern bedroom with platform bed, minimal decor, warm earth tones, large windows, simple lines, serene southwestern retreat
+Vintage laundry room with farmhouse sink, old-fashioned drying rack, mason jar storage, checkered curtains, nostalgic utility space
+Modern glam bedroom with tufted headboard, mirrored furniture, crystal lamps, faux fur throws, metallic accents, luxurious contemporary design
+Coastal kitchen with white cabinets, blue island, brass hardware, open shelving, natural wood accents, bright beach-inspired cooking space
